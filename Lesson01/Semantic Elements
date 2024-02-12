@@ -1,1 +1,1 @@
-
+A semantic element clearly describes its meaning to both the browser (machine) and the developer (human). In contrast, non-semantic elements don’t have a specific meaning but are used to format content on the page. Some semantic elements that were mentioned in the article are: article, aside, fig caption, figure, header, nav, summary, etc. Non-semantic elements include div and span.
